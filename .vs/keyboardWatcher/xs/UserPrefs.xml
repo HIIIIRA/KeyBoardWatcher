@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{87145073-AFE2-2942-FFE3-E847C52653EC}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Recorder.cs">
+    <Files>
+      <File FileName="Assets/script/KeyController.cs" />
+      <File FileName="Assets/script/Recorder.cs" Line="42" Column="33" />
+      <File FileName="Assets/script/SerialHandler.cs" />
+      <File FileName="Assets/script/Serial.cs" />
+      <File FileName="Assets/script/SerialSend.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="keyboardWatcher" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2144103f-4666-4b57-8b10-36e71fc403a7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
